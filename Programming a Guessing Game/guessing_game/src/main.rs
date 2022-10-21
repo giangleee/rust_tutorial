@@ -40,6 +40,7 @@ fn main() {
         
         // or
 
+        // Handle input data, invalid data goes to Err
         let guess: u32 = match guess
             .trim()
             .parse() {
