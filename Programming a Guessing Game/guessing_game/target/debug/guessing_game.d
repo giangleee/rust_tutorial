@@ -1,1 +1,0 @@
-C:\Users\giang\OneDrive\Máy\ tính\rust_tutorial\Programming\ a\ Guessing\ Game\guessing_game\target\debug\guessing_game.exe: C:\Users\giang\OneDrive\Máy\ tính\rust_tutorial\Programming\ a\ Guessing\ Game\guessing_game\src\main.rs
